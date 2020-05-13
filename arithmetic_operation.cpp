@@ -1,3 +1,4 @@
+//This code can perform all arithmetic operation with two numbers and display the result
 #include<iostream>
 using namespace std;
 class arith
