@@ -1,5 +1,5 @@
 # Early days with Cpp
-C++ is one of my, it is my favourite programing language.
+C++ is one of my, no it is my favourite programing language.
 I started coding at the age of 17 from my collage "Nilgiri collage of arts and science-tamil nadu".
 My BSc computer science gave me a nice base. During my first few weeks 'the time when i get familiar with my course ' i become so much amazed about the not only possiblities and also about cool amazing life with lot of new things to learn and lot and lots of fun. I can always recall it even when i'm just twelve years old i had been fascinated to learn new things that i couldn't comprehend, i know its strange.
 Back to the topic....
