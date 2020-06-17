@@ -1,5 +1,4 @@
-//This program can behave like an actual less functional bank
-//also take data from the user and manipulate it
+
 #include<iostream>
 using namespace std;
 class acc
