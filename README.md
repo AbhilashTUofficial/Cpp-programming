@@ -1,4 +1,8 @@
 # Early days with Cpp
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Cpp-programming?color=pink&label=Last%20Commit%3A&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Cpp-programming?color=pink&label=Repo%20Size%3A&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhilashTUofficial/Cpp-programming?color=pink&style=for-the-badge)
+<br/><br/>
 C++ is one of my, no it is my favourite programing language.
 I started coding at the age of 17 from my collage "Nilgiri collage of arts and science-tamil nadu".
 My BSc computer science gave me a nice base. During my first few weeks 'the time when i get familiar with my course ' i become so much amazed about the not only possiblities and also about cool amazing life with lot of new things to learn and lot and lots of fun. I can always recall it even when i'm just twelve years old i had been fascinated to learn new things that i couldn't comprehend, i know its strange.
