@@ -1,7 +1,7 @@
 # Early days with Cpp
-![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Cpp-programming?color=pink&label=Last%20Commit%3A&style=for-the-badge)
-![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Cpp-programming?color=pink&label=Repo%20Size%3A&style=for-the-badge)
-![GitHub top language](https://img.shields.io/github/languages/top/AbhilashTUofficial/Cpp-programming?color=pink&style=for-the-badge)
+![GitHub last commit](https://img.shields.io/github/last-commit/AbhilashTUofficial/Cpp-programming?color=magenta&label=Last%20Commit%3A&style=for-the-badge)
+![GitHub code size in bytes](https://img.shields.io/github/languages/code-size/AbhilashTUofficial/Cpp-programming?color=magenta&label=Repo%20Size%3A&style=for-the-badge)
+![GitHub top language](https://img.shields.io/github/languages/top/AbhilashTUofficial/Cpp-programming?color=magenta&style=for-the-badge)
 <br/><br/>
 C++ is one of my, no it is my favourite programing language.
 I started coding at the age of 17 from my collage "Nilgiri collage of arts and science-tamil nadu".
